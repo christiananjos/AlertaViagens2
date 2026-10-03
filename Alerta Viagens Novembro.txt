@@ -57,3 +57,20 @@ Fonte consultada: Kiwi.com (busca ampla 01–25/11, GRU/CGH/VCP/SJK)
 | 🔴 | Maceió (MCZ) | 14/11 → 19/11 | Gol | GRU → MCZ / MCZ → GRU | direta nos dois trechos | R$ 1.353,00 | R$ 2.706 | https://kiwi.com/u/6xjr8gu |
 
 Resultado desta rodada: nenhuma oferta 🟢; 1 oferta 🟡 (Recife). Recife em voo direto: R$ 1.042,50 (23/11 → 28/11, Azul, GRU ↔ REC, https://kiwi.com/u/hy2ckn).
+
+
+
+============================================================
+RODADA CHATGPT — 03/10/2026 18:05
+Fontes consultadas: Flight Network, Skyscanner, GOL, Decolar e Wise; histórico do próprio arquivo lido integralmente no início da rodada.
+Validação: 2 adultos, econômica, ida e volta, exatamente 5 dias (volta − ida = 5), novembro/2026, origens/retornos aceitos GRU/CGH/VCP/SJK. Preços em BRL. Valores GOL/Skyscanner marcados “a partir de” quando essa foi a forma exibida pela fonte e a origem São Paulo estava claramente identificada. A cotação Wise de EUR/BRL foi consultada, mas nenhuma oferta em EUR de GoVola/lastminute foi usada nesta rodada.
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro (BPS) | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| — | Fortaleza (FOR) | — | — | — | nenhuma oferta atual validada com diferença exata de 5 dias | — | — | — |
+| 🔴 | Buenos Aires (AEP) | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.512,00 (a partir de) | R$ 3.024,00 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=AEP&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-26&locale=pt-BR&currency=BRL&market=BR |
+| 🟡 | Recife (REC) | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | — | R$ 1.072,09 (a partir de) | R$ 2.144,18 | https://www.voegol.com.br/br/voos-de-sao-paulo-para-recife |
+| 🟢 | Maceió (MCZ) | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756,00 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 2 ofertas 🟢 dentro do alvo (Porto Seguro e Maceió), 1 oferta 🟡 dentro da faixa de até +10% (Recife) e 1 oferta 🔴 acima da faixa amarela (Buenos Aires). Fortaleza ficou sem preço válido nesta rodada porque as ofertas atuais encontradas não puderam ser validadas simultaneamente com a duração exata de 5 dias. Nenhum preço em EUR de GoVola/lastminute foi usado.
