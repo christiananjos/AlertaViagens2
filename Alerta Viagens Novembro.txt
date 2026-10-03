@@ -1,0 +1,59 @@
+ALERTA VIAGENS NOVEMBRO
+
+Histórico de monitoramento de passagens aéreas.
+
+Regras permanentes:
+- Novembro de 2026 בלבד.
+- 2 adultos, classe econômica, ida e volta, exatamente 5 dias.
+- Origem/retorno: GRU, CGH, VCP ou SJK.
+- Destinos: Porto Seguro (BPS), Fortaleza (FOR), Buenos Aires (EZE/AEP), Recife (REC) e Maceió (MCZ).
+- Preços em BRL/R$, sem conversão de moeda.
+- Alvos por pessoa: BPS R$800; FOR R$1.000; Buenos Aires R$1.200; REC R$1.000; MCZ R$1.000.
+- 🟢 até o alvo; 🟡 até 10% acima; 🔴 mais de 10% acima.
+
+
+============================================================
+RODADA MANUAL — 03/10/2026
+Fonte consultada: Decolar
+Observação: valores abaixo são ofertas retornadas para as datas explicitamente pesquisadas nesta rodada. A duração de 5 dias foi validada pela diferença entre as datas de ida e volta. A etiqueta “4 dias” exibida pela Decolar corresponde à estadia/noites e não foi usada para alterar as datas.
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro (BPS) | 01/11 → 06/11 | Gol | SJK → BPS / BPS → CGH | ida 1 escala (GIG) / volta direta | R$ 1.001,50 | R$ 2.003 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/BPS/2026-11-01/2026-11-06/2/0/0?di=2&alternativeId=2026-11-01T19%3A10%3A00G32117-2026-11-02T07%3A40%3A00G32004-2026-11-06T14%3A35%3A00G31503ECONOMY-ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🟢 | Recife (REC) | 10/11 → 15/11 | LATAM | CGH → REC / REC → GRU | ida 1 escala (BSB) / volta direta | R$ 975,50 | R$ 1.951 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2026-11-10/2026-11-15/2/0/0?di=2&alternativeId=2026-11-10T13%3A30%3A00LA3108-2026-11-10T17%3A30%3A00LA3564-2026-11-15T04%3A05%3A00LA3733ECONOMY-ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🔴 | Maceió (MCZ) | 20/11 → 25/11 | Gol / LATAM | VCP → MCZ / MCZ → CGH | 1 escala (BSB) nos dois trechos | R$ 1.480,00 | R$ 2.960 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/MCZ/2026-11-20/2026-11-25/2/0/0?di=2&alternativeId=2026-11-20T18%3A00%3A00G31725-2026-11-20T22%3A00%3A00G31712ECONOMY-ECONOMY_T_F_T2026-11-25T05%3A00%3A00LA3763-2026-11-25T13%3A25%3A00LA3017ECONOMY-ECONOMY_T_F_T2OW&from=odysseychatgpt |
+| 🔴 | Fortaleza (FOR) | 10/11 → 15/11 | Gol | GRU → FOR / FOR → CGH | ida direta / volta 1 escala (SSA) | R$ 1.511,50 | R$ 3.023 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/FOR/2026-11-10/2026-11-15/2/0/0?di=2&alternativeId=2026-11-10T08%3A35%3A00G31554-2026-11-15T04%3A45%3A00G31995-2026-11-15T07%3A20%3A00G31627ECONOMY_T_F_T-ECONOMY-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🔴 | Buenos Aires (AEP) | 22/11 → 27/11 | Gol | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.723,50 | R$ 3.447 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/AEP/2026-11-22/2026-11-27/2/0/0?di=2&alternativeId=2026-11-22T22%3A40%3A00G37648-2026-11-27T09%3A00%3A00G37649ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+
+Resultado desta rodada: 1 oferta 🟢 dentro do alvo (Recife). Nenhuma oferta 🟡 foi identificada nas combinações de datas validadas nesta rodada. As demais ofertas validadas ficaram acima da faixa amarela.
+
+
+============================================================
+RODADA MANUAL — 03/10/2026 — NOVA PESQUISA
+Fonte consultada: Decolar
+Validação: 2 adultos, econômica, ida e volta, datas com diferença exata de 5 dias, novembro/2026. Os links abaixo são os links diretos retornados pela pesquisa.
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro (BPS) | 01/11 → 06/11 | Gol | SJK → BPS / BPS → CGH | ida 1 escala (GIG) / volta direta | R$ 1.001,50 | R$ 2.003 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/BPS/2026-11-01/2026-11-06/2/0/0?di=2&alternativeId=2026-11-01T19%3A10%3A00G32117-2026-11-02T07%3A40%3A00G32004-2026-11-06T14%3A35%3A00G31503ECONOMY-ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🔴 | Fortaleza (FOR) | 10/11 → 15/11 | Gol | GRU → FOR / FOR → CGH | ida direta / volta 1 escala (SSA) | R$ 1.511,50 | R$ 3.023 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/FOR/2026-11-10/2026-11-15/2/0/0?di=2&alternativeId=2026-11-10T08%3A35%3A00G31554-2026-11-15T04%3A45%3A00G31995-2026-11-15T07%3A20%3A00G31627ECONOMY_T_F_T-ECONOMY-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🟢 | Recife (REC) | 10/11 → 15/11 | LATAM | CGH → REC / REC → GRU | ida 1 escala (BSB) / volta direta | R$ 975,50 | R$ 1.951 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/REC/2026-11-10/2026-11-15/2/0/0?di=2&alternativeId=2026-11-10T13%3A30%3A00LA3108-2026-11-10T17%3A30%3A00LA3564-2026-11-15T04%3A05%3A00LA3733ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+| ⚪ | Buenos Aires (EZE/AEP) | 22/11 → 27/11 | — | — | nenhuma oferta válida retornada nesta nova consulta | — | — | — |
+| ⚪ | Maceió (MCZ) | 20/11 → 25/11 | — | — | nenhuma oferta válida retornada nesta nova consulta | — | — | — |
+
+Resultado desta rodada: 1 oferta 🟢 dentro do alvo (Recife). Nenhuma oferta 🟡 foi identificada. Buenos Aires e Maceió não retornaram uma oferta válida nesta nova consulta; resultados incompatíveis foram descartados.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 15:56
+Fonte consultada: Kiwi.com (busca ampla 01–25/11, GRU/CGH/VCP/SJK)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro (BPS) | 14/11 → 19/11 | Gol | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 1.150,00 | R$ 2.300 | https://kiwi.com/u/sdughb |
+| 🔴 | Fortaleza (FOR) | 03/11 → 08/11 | Azul / Gol | VCP → FOR / FOR → GRU | direta nos dois trechos | R$ 1.406,50 | R$ 2.813 | https://kiwi.com/u/qv7y9v |
+| 🔴 | Buenos Aires (AEP) | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.620,00 | R$ 3.240 | https://kiwi.com/u/8ruszx |
+| 🟡 | Recife (REC) | 10/11 → 15/11 | Gol | VCP → REC / REC → CGH | 1 escala nos dois trechos (BSB / GIG) | R$ 1.010,50 | R$ 2.021 | https://kiwi.com/u/b3ukvf |
+| 🔴 | Maceió (MCZ) | 14/11 → 19/11 | Gol | GRU → MCZ / MCZ → GRU | direta nos dois trechos | R$ 1.353,00 | R$ 2.706 | https://kiwi.com/u/6xjr8gu |
+
+Resultado desta rodada: nenhuma oferta 🟢; 1 oferta 🟡 (Recife). Recife em voo direto: R$ 1.042,50 (23/11 → 28/11, Azul, GRU ↔ REC, https://kiwi.com/u/hy2ckn).
