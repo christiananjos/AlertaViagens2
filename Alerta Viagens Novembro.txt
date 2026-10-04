@@ -87,3 +87,464 @@ A busca horária consolidada do ChatGPT foi reativada para novembro/2026.
 - Alvos por pessoa: BPS R$800; FOR R$1.000; Buenos Aires R$1.200; REC R$1.000; MCZ R$1.000.
 - Cada rodada deverá acrescentar um novo bloco ao histórico, sem sobrescrever rodadas anteriores.
 - Preços em BRL, sem conversão de moeda, com links diretos/deep links quando disponíveis.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 12:03
+Fonte consultada: ViajaNet, Kayak
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | não informado | — | São Paulo → BPS | — | R$ 918,00 (a partir de) | R$ 1.836,00 | https://www.viajanet.com.br/passagens-aereas/bps/passagens-para-porto+seguro |
+| 🟡 | Fortaleza | não informado | — | São Paulo → FOR | — | R$ 1.087,00 (a partir de) | R$ 2.174,00 | https://www.viajanet.com.br/passagens-aereas/for/passagens-para-fortaleza |
+| 🔴 | Buenos Aires | 12/11 a 19/11 (7 dias) | Aerolíneas Argentinas | GRU → AEP | — | R$ 1.419,00 (a partir de) | R$ 2.838,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Buenos-Aires-Jorge-Newbery-AEP |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Fortaleza).
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 13:03
+Fonte consultada: Momondo, Kiwi.com, Kayak
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | não informado (novembro/2026) | Gol / Azul / LATAM | GRU/CGH–BPS | — | R$ 821,00 (a partir de) | R$ 1.642,00 | https://www.momondo.com.br/passagem/sao-paulo/porto-seguro |
+| 🔴 | Fortaleza | 06/11/2026 – 11/11/2026 | Gol | GRU–FOR / FOR–CGH | — | R$ 1.408,50 | R$ 2.817,00 | https://kiwi.com/u/jswt67t |
+| 🔴 | Buenos Aires | 12/11 – 19/11 (conforme a fonte) | Aerolíneas Argentinas | GRU–AEP / AEP–GRU | — | R$ 1.419,00 (a partir de) | R$ 2.838,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Buenos-Aires-Jorge-Newbery-AEP |
+| 🟡 | Recife | 09/11/2026 – 14/11/2026 | Azul | GRU–REC / REC–GRU | — | R$ 1.011,00 | R$ 2.022,00 | https://kiwi.com/u/26j699 |
+| 🔴 | Maceió | 14/11/2026 – 19/11/2026 | Gol | GRU–MCZ / MCZ–GRU | — | R$ 1.409,50 | R$ 2.819,00 | https://kiwi.com/u/cdb428 |
+
+Resultado desta rodada: 0 verde(s) (—), 2 amarelo(s) (Porto Seguro, Recife).
+OBS: Porto Seguro e Buenos Aires são preços \"a partir de\" sem 5 dias confirmados; com 5 dias exatos no Kiwi: Porto Seguro R$ 1.150,00/pessoa (14–19/11, Gol CGH–BPS, https://kiwi.com/u/vp3pzb) e Buenos Aires R$ 1.750,50/pessoa (22–27/11, https://kiwi.com/u/mc65s9). Ofertas de Decolar/ViajaNet/Kayak abaixo desses valores foram descartadas por saírem de VCP/SJK ou serem de outros meses.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 14:03
+Fonte consultada: Kayak, ViajaNet, Decolar
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | não informado | — | São Paulo → BPS | — | R$ 825,00 (a partir de) | R$ 1.650,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Porto-Seguro-BPS |
+| 🟡 | Fortaleza | não informado | — | São Paulo → FOR | — | R$ 1.076,00 (a partir de) | R$ 2.152,00 | https://www.viajanet.com.br/passagens-aereas/sao/for/passagens-aereas-para-fortaleza-saindo-de-sao+paulo |
+| 🔴 | Buenos Aires | não informado | — | São Paulo → Buenos Aires | — | R$ 1.531,00 (a partir de) | R$ 3.062,00 | https://www.decolar.com/passagens-aereas/sao/bue/passagens-aereas-para-buenos+aires-saindo-de-sao+paulo |
+| 🟢 | Recife | 25/11 a 30/11/2026 | Gol | CGH → REC → CGH | — | R$ 773,00 (a partir de) | R$ 1.546,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Recife-Guararapes-Intl-REC |
+| 🔴 | Maceió | não informado | — | São Paulo → MCZ | — | R$ 1.139,00 (a partir de) | R$ 2.278,00 | https://www.decolar.com/passagens-aereas/sao/mcz/passagens-aereas-para-maceio-saindo-de-sao+paulo |
+
+Resultado desta rodada: 1 verde(s) (Recife), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: Melhor tarifa com datas confirmadas de 5 dias no Kiwi (por pessoa): Porto Seguro R$ 1.176,00 (21–26/11, Gol, CGH)  (https://kiwi.com/u/ngq5m65) ; Fortaleza R$ 1.407,00 (06–11/11, Gol, GRU/CGH)  (https://kiwi.com/u/tjjbr7) ; Buenos Aires R$ 1.714,50 (13–18/11, Aerolíneas, GRU–AEP)  (https://kiwi.com/u/r4gkcpt) ; Recife R$ 1.011,00 (09–14/11, Azul, GRU)  (https://kiwi.com/u/2jc626) ; Maceió R$ 1.353,00 (14–19/11, Gol, GRU)  (https://kiwi.com/u/htbtvmj)  — todas VERMELHO, exceto Recife AMARELO. Preços \"a partir de\" de Porto Seguro, Fortaleza, Buenos Aires e Maceió sem datas/aeroporto confirmados (Fortaleza, Buenos Aires e Maceió vêm de título de busca, ida e volta não confirmado). Descartados por não serem 5 dias: Kayak Buenos Aires R$ 1.419 (12–19/11) e Kayak Maceió R$ 1.015 (16–20/11).
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 15:03
+Fonte consultada: Kayak, Kiwi.com, Mundi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | não informado | Azul / várias | São Paulo → BPS | — | R$ 830,00 (a partir de) | R$ 1.660,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Porto-Seguro-BPS |
+| 🔴 | Fortaleza | 06/11/2026 – 11/11/2026 | Gol | GRU → FOR / FOR → CGH | — | R$ 1.426,00 | R$ 2.852,00 | https://kiwi.com/u/ynxjvj |
+| 🔴 | Buenos Aires | 12/11/2026 – 19/11/2026 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | — | R$ 1.419,00 (a partir de) | R$ 2.838,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Buenos-Aires-Jorge-Newbery-AEP |
+| 🟢 | Recife | 01/11/2026 – 08/11/2026 | Azul | GRU → REC / REC → GRU | — | R$ 816,00 (a partir de) | R$ 1.632,00 | https://www.mundi.com.br/voos/Sao-Paulo-SAO/Recife-Guararapes-Intl-REC.ksp |
+| 🟡 | Maceió | não informado | LATAM / Azul | São Paulo → MCZ | — | R$ 1.021,00 (a partir de) | R$ 2.042,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Maceio-Palmares-MCZ |
+
+Resultado desta rodada: 1 verde(s) (Recife), 2 amarelo(s) (Porto Seguro, Maceió).
+OBS: preços \"a partir de\" não têm 5 dias exatos confirmados (Buenos Aires e Recife aparecem com 7 dias; Porto Seguro e Maceió sem datas/aeroporto confirmados). Menor preço com 5 dias exatos confirmado no Kiwi, por pessoa: Porto Seguro R$ 1.150,00 (14–19/11, Gol, CGH)  (https://kiwi.com/u/w6vdpzq) ; Buenos Aires R$ 1.714,50 (13–18/11, Aerolíneas, GRU–AEP)  (https://kiwi.com/u/vcsq7n) ; Recife R$ 1.011,00 (09–14/11, Azul, GRU)  (https://kiwi.com/u/sqmj5j) ; Maceió R$ 1.353,00 (14–19/11, Gol, GRU)  (https://kiwi.com/u/4sbwyw) . Descartados: ofertas saindo de VCP (Decolar Recife R$ 962, Kayak Maceió R$ 1.015), ViajaNet Fortaleza (datas só em 2027) e Skyscanner Porto Seguro (preço em USD).
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 16:04
+Fonte consultada: Kayak, Kiwi.com, Mundi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | não informado | Gol / LATAM / Azul | São Paulo (GRU/CGH/VCP)→BPS / BPS→São Paulo | — | R$ 825,00 (a partir de) | R$ 1.650,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Porto-Seguro-BPS |
+| 🔴 | Fortaleza | 22/11 a 27/11/2026 | Azul / Gol | VCP→FOR / FOR→CGH direto | — | R$ 1.403,50 | R$ 2.807,00 | https://kiwi.com/u/jr5x9s |
+| 🔴 | Buenos Aires | 12/11 a 19/11/2026 | Aerolíneas Argentinas | GRU→AEP / AEP→GRU direto | — | R$ 1.419,00 (a partir de) | R$ 2.838,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Buenos-Aires-Jorge-Newbery-AEP |
+| 🟢 | Recife | 08/11 a 12/11/2026 | Azul | São Paulo→REC / REC→São Paulo (aeroporto não informado) | — | R$ 816,00 (a partir de) | R$ 1.632,00 | https://www.mundi.com.br/voos/Sao-Paulo-SAO/Recife-Guararapes-Intl-REC.ksp |
+| 🟡 | Maceió | 24/11 a 30/11/2026 | Gol | São Paulo→MCZ / MCZ→São Paulo (aeroporto não informado) | — | R$ 1.028,00 (a partir de) | R$ 2.056,00 | https://www.kayak.com.br/voos/Sao-Paulo-SAO/Maceio-Palmares-MCZ |
+
+Resultado desta rodada: 1 verde(s) (Recife), 2 amarelo(s) (Porto Seguro, Maceió).
+OBS: os preços \"a partir de\" de Buenos Aires, Recife e Maceió são de datas que não somam 5 dias. Menor preço confirmado com exatamente 5 dias (Kiwi, por pessoa): Porto Seguro R$ 1.150,00 (14–19/11, Gol, CGH↔BPS,  (https://kiwi.com/u/kv3su72) ); Buenos Aires R$ 1.620,00 (21–26/11, Gol, GRU↔AEP,  (https://kiwi.com/u/ytvrh4) ); Recife R$ 1.042,50 (23–28/11, Azul, GRU↔REC,  (https://kiwi.com/u/sn6twf) ); Maceió R$ 1.384,00 (14–19/11, Gol, GRU↔MCZ,  (https://kiwi.com/u/zw83kky) ). Sem voos por SJK.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 17:03
+Fonte consultada: Kiwi.com, Decolar
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 10/11–15/11 | Gol | CGH → BPS / BPS → CGH | direto | R$ 1.083,50 | R$ 2.167,00 | https://kiwi.com/u/w77rhy |
+| 🔴 | Fortaleza | 22/11–27/11 | Azul (ida) / Gol (volta) | VCP → FOR / FOR → CGH | direto | R$ 1.403,50 | R$ 2.807,00 | https://kiwi.com/u/9hc97cs |
+| 🔴 | Buenos Aires | 21/11–26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.620,00 | R$ 3.240,00 | https://kiwi.com/u/x645q4 |
+| 🟢 | Recife | 04/11–09/11 | LATAM | GRU → REC / REC → GRU | direto | R$ 926,00 | R$ 1.852,00 | https://www.decolar.com/passagens-aereas/sao/rec/passagens-aereas-para-recife-saindo-de-sao+paulo |
+| 🔴 | Maceió | 14/11–19/11 | Gol | GRU → MCZ / MCZ → GRU | direto | R$ 1.384,00 | R$ 2.768,00 | https://kiwi.com/u/vmzf85 |
+
+Resultado desta rodada: 1 verde(s) (Recife), 0 amarelo(s) (—).
+OBS: GitHub: não gravado (sem acesso ao repositório nesta sessão). Recife na Decolar é preço de vitrine por pessoa (conferir no site); no Kiwi o melhor Recife de 5 dias foi R$ 1.042,50/pessoa (23/11–28/11, Azul, GRU). Decolar para os demais destinos só mostrou datas fora da regra.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 17:33
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 10/11 → 15/11 | Gol + LATAM | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 896,76 (convertido de € 305,54 a R$ 5,87) | R$ 1.793,52 | GoVola (sem link — conferir no app) |
+| 🔴 | Fortaleza | 22/11 → 27/11 | Azul + LATAM | VCP → FOR / FOR → GRU | direto nos dois trechos | R$ 1.289,05 (convertido de € 439,20 a R$ 5,87) | R$ 2.578,10 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.509,00 (convertido de € 514,14 a R$ 5,87) | R$ 3.018,00 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 23/11 → 28/11 | LATAM | GRU → REC / REC → GRU | direto nos dois trechos | R$ 909,62 (convertido de € 309,92 a R$ 5,87) | R$ 1.819,23 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 14/11 → 19/11 | Gol + LATAM | GRU → MCZ / MCZ → GRU | direto nos dois trechos | R$ 1.156,10 (convertido de € 393,90 a R$ 5,87) | R$ 2.312,19 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 1 verde(s) (Recife), 0 amarelo(s) (—).
+OBS: GitHub não gravado (a ferramenta add_repo não existe nesta sessão, 3 buscas sem resultado; git clone: \"fatal: could not read Username for 'https://github.com': terminal prompts disabled\"; gh api: \"GitHub access to this repository is not enabled for this session. Use add_repo to request access.\"). Valores convertidos de euros são estimados (cotação Wise 1 EUR = R$ 5,87, sem IOF/taxas). Conferência em R$ nativo (Kiwi, por pessoa, voos diretos): Porto Seguro R$ 1.083,50, 10/11 → 15/11, Gol CGH ( (https://kiwi.com/u/vc8jgm) ) · Fortaleza R$ 1.370,00, 22/11 → 27/11, Azul/Gol VCP → FOR / FOR → GRU ( (https://kiwi.com/u/swq6nt) ) · Buenos Aires R$ 1.620,00, 21/11 → 26/11, Gol GRU ↔ AEP ( (https://kiwi.com/u/65vvym) ) · Recife R$ 1.042,50 (AMARELO), 23/11 → 28/11, Azul GRU ↔ REC ( (https://kiwi.com/u/th595z) ) · Maceió R$ 1.384,00, 14/11 → 19/11, Gol GRU ↔ MCZ ( (https://kiwi.com/u/96f99k) ). lastminute (EUR→BRL) ficou acima do GoVola em todos os destinos. Gol (home) e Vai de Promo (home) não exibiram tarifa utilizável por rota; Expedia e demais agências não consultadas nesta rodada.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 17:56
+Fonte consultada: ChatGPT (Decolar), Kiwi, GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 01/11 → 06/11 | Gol | SJK → BPS / BPS → CGH; ida 1 escala (GIG) | volta direta | R$ 1.001,50 | R$ 2.003 | https://www.decolar.com/shop/flights/results/roundtrip/SAO/BPS/2026-11-01/2026-11-06/2/0/0?di=2&alternativeId=2026-11-01T19%3A10%3A00G32117-2026-11-02T07%3A40%3A00G32004-2026-11-06T14%3A35%3A00G31503ECONOMY-ECONOMY_T_F_T-ECONOMY_T_F_T&from=odysseychatgpt |
+| 🔴 | Fortaleza | 22/11 → 27/11 | Azul / Gol | VCP → FOR / FOR → GRU; direta nos dois trechos | — | R$ 1.370,00 | R$ 2.740 | https://kiwi.com/u/xjdr9v |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU; direta nos dois trechos | — | R$ 1.620,00 | R$ 3.240 | https://kiwi.com/u/bkr9g4 |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | CGH → REC / REC → GRU; direta nos dois trechos | — | R$ 854,75 (convertido de € 291,22 a R$ 5,87) | R$ 1.709 | — (sem link — conferir no app) |
+| 🔴 | Maceió | 14/11 → 19/11 | Gol | GRU → MCZ / MCZ → GRU; direta nos dois trechos | — | R$ 1.384,00 | R$ 2.768 | https://kiwi.com/u/c2s53wn |
+
+Resultado desta rodada: 1 verde(s) (Recife), 0 amarelo(s) (—).
+OBS: Cotação EUR→BRL 5,87 (WebFetch do Wise/Investing indisponível, pedido de permissão sem resposta). Gol, Vai de Promo e demais sites não consultados (WebFetch negado). GoVola/lastminute só em REC e BPS (10/11–15/11): lastminute REC € 354,10 ≈ R$ 1.039/pessoa; lastminute BPS € 391,42 ≈ R$ 1.149/pessoa; Kiwi BPS 10/11–15/11 R$ 1.083,50/pessoa (https://kiwi.com/u/pbrxs87). Recife: 2ª mais barata em R$ nativo é a do ChatGPT (R$ 975,50), 14% acima da convertida. Kiwi ampla em BPS/FOR/EZE/MCZ trouxe resultados mais caros que na rodada anterior. GitHub: gravação indisponível (execução agendada sem login; add_repo não disponível); leitura por clone anônimo ok.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 18:35
+Fonte consultada: ChatGPT (Flight Network), GoVola (EUR→BRL), ChatGPT (Skyscanner)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direto | R$ 461,19 (oferta do ChatGPT, não verificada por mim) | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| 🔴 | Fortaleza | 20/11 → 25/11 | LATAM / Gol | CGH → FOR / FOR → GRU | direto nos dois trechos | R$ 1.201,88 (convertido de € 409,50 a R$ 5,87) | R$ 2.403,77 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.509,00 (convertido de € 514,14 a R$ 5,87) | R$ 3.018,00 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | CGH → REC / REC → GRU | direto nos dois trechos | R$ 854,74 (convertido de € 291,22 a R$ 5,87) | R$ 1.709,47 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de; oferta do ChatGPT, não verificada por mim) | R$ 1.756,00 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 3 verde(s) (Porto Seguro, Recife, Maceió), 0 amarelo(s) (—).
+OBS: cotação EUR→BRL 5,87 (WebFetch/WebSearch sem permissão nesta rodada, então Wise não consultado, e Gol, Vai de Promo e demais sites não pesquisados). Porto Seguro e Maceió verdes só pela oferta do ChatGPT (hoje, com link), que não consegui reproduzir. Melhor verificado por mim em Porto Seguro: GoVola R$ 853,50 (convertido de € 290,80, LATAM CGH 14/11 → 19/11, AMARELO) e Kiwi R$ 1.083,50 (Gol CGH 10/11 → 15/11, https://kiwi.com/u/n2uw6n). Em Maceió: GoVola R$ 1.024,91 (convertido de € 349,20, 1 escala VCP-BSB, 16/11 → 21/11, AMARELO), lastminute R$ 1.406,50 (convertido de € 479,24, 1 escala, 15/11 → 20/11) e Kiwi R$ 1.416,00 (GRU 16/11 → 21/11, https://kiwi.com/u/ydn76c). Fortaleza em R$ nativo: Kiwi R$ 1.309,00 (GRU 20/11 → 25/11, https://kiwi.com/u/z2wn7q3). Buenos Aires: Kiwi R$ 1.620,00 (21/11 → 26/11, https://kiwi.com/u/fmh2m6). Recife em R$ nativo: Kiwi R$ 1.044,50 (GRU 03/11 → 08/11, https://kiwi.com/u/fnpd2q). GitHub: leitura ok (clone sem login); gravação indisponível (sem permissão de escrita nas execuções agendadas, add_repo não usado).
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 19:35
+Fonte consultada: ChatGPT (Flight Network), GoVola (EUR→BRL), ChatGPT (Skyscanner)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direto | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| 🟡 | Fortaleza | 15/11 → 20/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.091,76 (convertido de € 371,98 a R$ 5,87) | R$ 2.183,53 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.509,00 (convertido de € 514,14 a R$ 5,87) | R$ 3.018,00 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 03/11 → 08/11 | Gol | GRU → REC / REC → GRU | direto | R$ 780,42 (convertido de € 265,90 a R$ 5,87) | R$ 1.560,83 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756,00 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 3 verde(s) (Porto Seguro, Recife, Maceió), 1 amarelo(s) (Fortaleza).
+OBS: GitHub leitura ok (clone sem login); gravação no GitHub indisponível (sem permissão de escrita; add_repo ausente). Cotação EUR→BRL 5,87 (WebFetch bloqueado nesta execução, usado valor de referência). Gol, Vai de Promo e demais sites: WebFetch/WebSearch indisponíveis sem aprovação, não consultados. Porto Seguro: o R$ 461,19 do ChatGPT está muito abaixo das outras fontes (GoVola R$ 834,62 convertido; Kiwi R$ 1.083,50 por pessoa, link https://kiwi.com/u/37bm7zw) — conferir antes de confiar. Buenos Aires: 2ª mais barata em R$ nativo é a do ChatGPT, R$ 1.512,00 (a partir de); Kiwi R$ 1.620,00 (https://kiwi.com/u/989zju). Fortaleza 2ª: Kiwi R$ 1.280,50 (https://kiwi.com/u/6cd4wp). Recife 2ª: Kiwi R$ 1.004,50 (VCP→REC 03/11, https://kiwi.com/u/bnmhpj). Maceió 2ª: Kiwi R$ 1.406,50 (24/11→29/11, https://kiwi.com/u/5f2rtg). Expedia não consultado.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 20:35
+Fonte consultada: ChatGPT (Flight Network), Kiwi, ChatGPT (Skyscanner), ChatGPT (Gol)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direto | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| 🔴 | Fortaleza | 15/11 → 20/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.280,50 | R$ 2.561 | https://kiwi.com/u/sdnhxt |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.512,00 (a partir de) | R$ 3.024 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=AEP&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-26&locale=pt-BR&currency=BRL&market=BR |
+| 🟡 | Recife | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | — | R$ 1.072,09 (a partir de) | R$ 2.144,18 | https://www.voegol.com.br/br/voos-de-sao-paulo-para-recife |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 2 verde(s) (Porto Seguro, Maceió), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok; gravação GitHub indisponível (sem add_repo) → Docs. Só Kiwi + oferta do ChatGPT (de hoje, com link) nesta rodada; Gol, Vai de Promo, GoVola e lastminute não consultados. Kiwi (melhor 5 dias): BPS R$ 1.083,50 (10/11–15/11 CGH, Gol, https://kiwi.com/u/yjc6pc), MCZ R$ 1.409,50 (24/11–29/11), BUE R$ 1.620 (21/11–26/11), REC sem opção válida de 5 dias (a de R$ 994,50 fecha 6 dias).
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 21:35
+Fonte consultada: ChatGPT (Flight Network), Kiwi, ChatGPT (Skyscanner)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH ↔ BPS | direto | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL |
+| 🔴 | Fortaleza | 15/11 → 20/11 | Gol | GRU ↔ FOR | direto | R$ 1.280,50 | R$ 2.561 | https://kiwi.com/u/7tnyg8 |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU ↔ AEP | direto | R$ 1.512,00 (a partir de) | R$ 3.024 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=AEP&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-26&locale=pt-BR&currency=BRL&market=BR |
+| 🟡 | Recife | 23/11 → 28/11 | Gol / Azul | GRU ↔ REC | direto | R$ 1.035,50 | R$ 2.071 | https://kiwi.com/u/6hqdr7 |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP ↔ MCZ | com escala | R$ 878,00 (a partir de) | R$ 1.756 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 2 verde(s) (Porto Seguro, Maceió), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok; gravação indisponível (execução sem login, sem push). Porto Seguro e Maceió VERDE vêm só do ChatGPT e NÃO se confirmaram: PS 14→19 em GoVola ≈ R$ 835,20/pessoa (€ 284,56 a 5,87; AMARELO), lastminute € 382,38 total ≈ R$ 1.122/pessoa, Kiwi R$ 1.094; Maceió 15→20 Kiwi R$ 1.314,50 (VCP→BSB→MCZ, https://kiwi.com/u/vbztq9), lastminute ≈ R$ 1.406. Cotação EUR 5,87 (referência, não atualizada). Kiwi filtrado por volta − ida = 5 dias de calendário (a opção de 5 noites às vezes dá 6 dias). Recife melhor do Kiwi 10/11→15/11 R$ 1.051,50. Sites Gol/Vai de Promo e demais agências não consultados nesta rodada (WebFetch sem permissão); Expedia não testado.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 22:46
+Fonte consultada: ChatGPT (Flight Network), Kiwi, ChatGPT (Skyscanner), GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direto | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| 🔴 | Fortaleza | 13/11 → 18/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.292,00 | R$ 2.584 | https://kiwi.com/u/r3f76y |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.512,00 (a partir de) | R$ 3.024 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=AEP&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-26&locale=pt-BR&currency=BRL&market=BR |
+| 🟢 | Recife | 14/11 → 19/11 | Gol + LATAM | CGH → REC / REC → GRU | direto | R$ 863,24 (convertido de € 294,12 a R$ 5,87) | R$ 1.726 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
+
+Resultado desta rodada: 3 verde(s) (Porto Seguro, Recife, Maceió), 0 amarelo(s) (—).
+OBS: GitHub leitura ok; gravação indisponível (execução agendada sem login). Cotação EUR→BRL 5,87 (Wise/Investing sem permissão de acesso; usada a referência de 03/10). Kiwi 5 dias exatos: BPS R$ 1.036 (CGH 14/11→19/11,  (https://kiwi.com/u/t388gx) ); REC R$ 1.001 (GRU→REC 14/11, REC→CGH 19/11,  (https://kiwi.com/u/hhr7ns) , AMARELO); MCZ R$ 1.400,50 (GRU 22/11→27/11,  (https://kiwi.com/u/yp84hbh) ); AEP R$ 1.714,50 (AR 13/11→18/11,  (https://kiwi.com/u/f6yygh5) ). GoVola BPS € 291,38 (≈ R$ 855,20); lastminute BPS € 382,38 (≈ R$ 1.122), MCZ € 479,24 com escala (≈ R$ 1.406,60). Recife GoVola 863,24 convertido; segunda opção em R$ nativo: Kiwi R$ 1.001. Gol/Vai de Promo/demais sites não consultados nesta rodada.
+
+
+============================================================
+RODADA CLAUDE — 03/10/2026 23:35
+Fonte consultada: ChatGPT (Flight Network) — não confirmado, Kiwi, ChatGPT (Skyscanner), ChatGPT (Skyscanner) — não confirmado
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟢 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 461,19 | R$ 922,37 | https://br.flightnetwork.com/from/mcp-chatgpt/air/SAOBPS14NOV19NOV/2/-/-/c:Y?customerCurrency=BRL&ibe.asc=PA8&ibe.asr=6.7ZYUEZ1H&ibe.cot=4.9S6DOKNS7H&ibe.cr=GNRSNJ_4&ibe.d=MCwxOzAsMDtNRzsyNztVOzlTNkRPS01VOU07MTZNNyxXTU47MCww&ibe.e=BdVvuLpToxbbhw2qF2za71nIACvcK2lYF4S_nZVclO5ftRFm2DJtZAgHGOCYXlZMCfIPl_yZ4e3Eijn00y7ALMS0Km__MQ%3D%3D&ibe.e.h=298M&ibe.ecc=1..&ibe.oas=781&ibe.oct=20&ibe.odt=TMCNYR&ibe.ot=184474&ibe.s=2-DI4_EQV-EQV_DI4-TOHXDO_TORG7C-TOI2XO_TORM80-0_0-3MO_3L1-GP_GP-F9_F9-Y_Y-G_A-27_27-3_3&ibe.si=1763642817706&ibe.x=14770&selectionKey=LA4704-14Nov26-G_LA4645-19Nov26-A%2C17qbfer%2C%3A%3Ag_0.0%3Ah_0.1%3Aa_O1.TQ%3Ab_8U%3Ac_8Z%3Ad_1c2604%3Ae_0%3Af_3B%3Ai_2.0.0%3Aj_PO%3Az_5nisn5 |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto nos dois trechos | R$ 1.283,00 | R$ 2.566 | https://kiwi.com/u/jby6bg |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.512,00 (a partir de) | R$ 3.024 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=AEP&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-26&locale=pt-BR&currency=BRL&market=BR |
+| 🟡 | Recife | 14/11 → 19/11 | Azul / Gol | GRU → REC / REC → CGH | direto nos dois trechos | R$ 1.001,00 | R$ 2.002 | https://kiwi.com/u/832pfg |
+| 🟢 | Maceió | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756 | [abrir](https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR) |
+
+Resultado desta rodada: 2 verde(s) (Porto Seguro, Maceió), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok (clone sem login); gravação no GitHub indisponível (execução agendada sem permissão de escrita), registro feito aqui. As ofertas do ChatGPT para Porto Seguro e Maceió entraram por serem de hoje (03/10, fuso de São Paulo), com link e datas válidas, mas não bateram com as outras fontes. Porto Seguro nas mesmas datas: GoVola € 284,40 = R$ 834,71 por pessoa (AMARELO, convertido a 5,87, cotação padrão porque o Wise não pôde ser consultado), Kiwi R$ 978,00, lastminute € 382,38 = R$ 1.122 por pessoa. Maceió: melhor preço de fonte nativa em R$ foi o Kiwi, R$ 1.311,50 (15/11–20/11, VCP com escala em BSB). Buenos Aires: Kiwi R$ 1.714,50 (13/11–18/11). Recife: o Kiwi trouxe R$ 992,00 e R$ 994,50 em 13/11→19/11, descartados por serem 6 dias. Gol, Vai de Promo e demais sites: WebFetch não autorizado nesta rodada, não consultados. Expedia não tentado.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 00:35
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 14/11 → 19/11 | Gol / LATAM | CGH → BPS / BPS → CGH | direto | R$ 834,13 (convertido de € 284,20 a R$ 5,87) | R$ 1.668,25 | GoVola (sem link — conferir no app) |
+| 🟡 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.010,59 (convertido de € 344,32 a R$ 5,87) | R$ 2.021,17 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 21/11 → 26/11 | Gol | GRU → AEP / AEP → GRU | direto | R$ 1.538,76 (convertido de € 524,28 a R$ 5,87) | R$ 3.077,52 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | direto | R$ 779,77 (convertido de € 265,68 a R$ 5,87) | R$ 1.559,54 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 22/11 → 27/11 | LATAM / Gol | GRU → MCZ / MCZ → GRU | direto | R$ 1.232,11 (convertido de € 419,80 a R$ 5,87) | R$ 2.464,23 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 1 verde(s) (Recife), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: GitHub leitura ok (clone sem login); gravação no GitHub indisponível (sem permissão de escrita), registro feito aqui. Cotação fixa 5,87 (WebFetch do Wise bloqueado por permissão). Opções em R$ nativo (Kiwi) para conferência, por pessoa: Porto Seguro R$ 978,00 (14/11→19/11 CGH, Gol/Azul,  (https://kiwi.com/u/pkgp97) ); Fortaleza R$ 1.283,00 (06/11→11/11, Gol,  (https://kiwi.com/u/rt73c2) ); Buenos Aires R$ 1.714,50 (23/11→28/11, Aerolíneas,  (https://kiwi.com/u/5ff7k6) ); Recife R$ 1.051,50 (10/11→15/11, Azul/Gol,  (https://kiwi.com/u/37jg4y) ); Maceió R$ 1.408,50 (22/11→27/11, Gol,  (https://kiwi.com/u/ny3r6w) ). lastminute (EUR) ficou mais caro em todos (ex.: Porto Seguro € 382,38 total). Gol, Vai de Promo e demais sites não consultados nesta rodada (WebFetch sem permissão). Expedia não tentado. Kiwi REC 13/11→19/11 descartado (6 dias entre datas).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 01:35
+Fonte consultada: Kiwi, Kiwi (data-pista do ChatGPT)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 14/11 → 19/11 | Gol (ida) / Azul (volta) | CGH → BPS / BPS → CGH | direto | R$ 980,50 | R$ 1.961 | https://kiwi.com/u/u4xs4d |
+| 🔴 | Fortaleza | 15/11 → 20/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.285,00 | R$ 2.570 | https://kiwi.com/u/b5qmwrb |
+| 🔴 | Buenos Aires | 23/11 → 28/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/pdcjnm |
+| 🟡 | Recife | 10/11 → 15/11 | Azul (ida) / Gol (volta) | GRU → REC / REC → CGH | direto | R$ 1.051,50 | R$ 2.103 | https://kiwi.com/u/rxmy73f |
+| 🔴 | Maceió | 22/11 → 27/11 | Gol | GRU → MCZ direto / MCZ → BSB → VCP | 1 escala na volta | R$ 1.195,00 | R$ 2.390 | https://kiwi.com/u/mqt5yw |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok (clone sem login); gravação no GitHub indisponível (sem permissão de escrita nas execuções agendadas), registrado aqui. Só o Kiwi rendeu preço nesta rodada: WebFetch (Gol, Vai de Promo) foi bloqueado por falta de permissão e GoVola/lastminute/Expedia/WebSearch não foram consultados. Kiwi com 14/11→19/11 em Porto Seguro está bem acima dos R$ 461 do ChatGPT (não reproduzido no Kiwi). Recife a R$ 988 (13/11 22:35 → 19/11) foi descartado por fechar 6 dias pela data de partida. Pista Kiwi Maceió 15/11→20/11 saiu R$ 1.311,50 pp (via BSB), acima do melhor.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 02:35
+Fonte consultada: Kiwi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 14/11 → 19/11 | Gol / Azul | CGH → BPS / BPS → CGH | direta | R$ 980,50 | R$ 1.961 | https://kiwi.com/u/mt5rdp |
+| 🔴 | Fortaleza | 15/11 → 20/11 | Gol | GRU → FOR / FOR → GRU | direta | R$ 1.283,50 | R$ 2.567 | https://kiwi.com/u/3gz7y7 |
+| 🔴 | Buenos Aires | 23/11 → 28/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direta | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/tu46wc |
+| 🟡 | Recife | 10/11 → 15/11 | Azul / Gol | GRU → REC / REC → CGH | direta | R$ 1.051,50 | R$ 2.103 | https://kiwi.com/u/hpxn2vc |
+| 🔴 | Maceió | 22/11 → 27/11 | Gol | GRU → MCZ direta / MCZ → BSB → VCP (1 escala) | — | R$ 1.195,00 | R$ 2.390 | https://kiwi.com/u/cw2z96 |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Recife).
+OBS: Rodada só com Kiwi (+ pistas do ChatGPT). Gol, Vai de Promo, GoVola, lastminute e demais sites não consultados nesta rodada. GitHub: leitura ok (clone sem login); gravação indisponível (sem permissão de escrita) — registro feito aqui.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 03:35
+Fonte consultada: Kiwi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 14/11 → 19/11 | Gol (ida) / Azul (volta) | CGH → BPS / BPS → CGH | direto | R$ 980,50 | R$ 1.961,00 | https://kiwi.com/u/yx2s82 |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.285,00 | R$ 2.570,00 | https://kiwi.com/u/w8642s |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto | R$ 1.714,50 | R$ 3.429,00 | https://kiwi.com/u/byf6uy |
+| 🟡 | Recife | 10/11 → 15/11 | Azul (ida) / Gol (volta) | GRU → REC / REC → CGH | direto | R$ 1.051,50 | R$ 2.103,00 | https://kiwi.com/u/6npj9f |
+| 🔴 | Maceió | 22/11 → 27/11 | Gol | GRU → MCZ direto / MCZ → BSB → VCP (1 escala) | — | R$ 1.195,00 | R$ 2.390,00 | https://kiwi.com/u/cjpupt |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Recife).
+OBS: só Kiwi rendeu preço; WebFetch (Gol, Vai de Promo, Wise) negado por falta de permissão e GoVola/lastminute/Expedia/WebSearch não consultados nesta rodada. GitHub: leitura ok (clone sem login); gravação indisponível (sem login). Kiwi 'nights' conta pela chegada: itinerários de saída noturna que viram 6 dias por data foram descartados.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 04:35
+Fonte consultada: Kiwi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 14/11 → 19/11 | Gol / Azul | CGH → BPS / BPS → CGH | direto | R$ 979,50 | R$ 1.959 | https://kiwi.com/u/gpypnq |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.280,50 | R$ 2.561 | https://kiwi.com/u/kgsn6v |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/x62c5t |
+| 🟡 | Recife | 06/11 → 11/11 | Azul / Gol | GRU → REC / REC → GRU | direto | R$ 1.039,50 | R$ 2.079 | https://kiwi.com/u/ssfnw2 |
+| 🔴 | Maceió | 22/11 → 27/11 | Gol | GRU → MCZ direto / MCZ → BSB → VCP com escala | — | R$ 1.195,00 | R$ 2.390 | https://kiwi.com/u/zgcuvu |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok (clone sem login). Gravação no GitHub indisponível (execução agendada sem login; add_repo não usado). Só Kiwi consultado nesta rodada (Gol, Vai de Promo, GoVola, lastminute e demais sites não consultados por limite de tempo). Recife: Kiwi 1.989 foi descartado (07/11→13/11 = 6 dias); validada 06/11→11/11. Pista do ChatGPT para Porto Seguro (R$ 461 em 14/11–19/11) não confirmada no Kiwi (R$ 979,50).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 05:36
+Fonte consultada: Kiwi, GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 14/11 → 19/11 | Gol | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 1.039,50 | R$ 2.079 | https://kiwi.com/u/qrmufs |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direta nos dois trechos | R$ 1.278,50 | R$ 2.557 | https://kiwi.com/u/b585mj |
+| 🔴 | Buenos Aires | 23/11 → 28/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/vtdjn5 |
+| 🟢 | Recife | 16/11 → 21/11 | Azul (ida) + Gol (volta) | GRU → REC / REC → CGH | direta nos dois trechos | R$ 993,00 | R$ 1.986 | https://kiwi.com/u/dmmyb2 |
+| 🟢 | Maceió | 10/11 → 15/11 | LATAM (ida) + Gol (volta) | GRU → MCZ direta / MCZ → BSB → VCP com 1 escala | — | R$ 863,89 (convertido de € 294,34 a R$ 5,87) | R$ 1.727,78 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 2 verde(s) (Recife, Maceió), 0 amarelo(s) (—).
+OBS: GitHub leitura ok; gravação indisponível (sem login/add_repo nas execuções agendadas) → registro no Docs. Cotação EUR→BRL: Wise inacessível (permissão negada), usei 5,87 (ref. 03/10). Maceió VERDE vem só do GoVola (€ 294,34 total p/ 2); o lastminute mostra os mesmos voos GRU→MCZ de 10/11 a € 534,06 (≈ R$ 1.567/pessoa) e o menor preço em R$ nativo (Kiwi, 10/11→15/11 com escala em BSB na volta) é R$ 1.199,00/pessoa — CONFERIR no app GoVola antes de tratar como real. Porto Seguro: lastminute 14/11→19/11 € 382,38 (≈ R$ 1.122/pessoa, não vence o Kiwi); Fortaleza: lastminute € 472,60 (≈ R$ 1.387/pessoa, não vence o Kiwi). Pista do ChatGPT para BPS (LATAM R$ 461,19 pp, 14/11→19/11) não confirmada: Kiwi/lastminute mostram R$ 1.039–1.122 pp. Kiwi 'nights' conta noites no destino; só considerei pares com volta − ida = 5 dias de calendário. Gol, Vai de Promo e demais sites: WebFetch bloqueado por permissão nesta rodada.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 06:35
+Fonte consultada: GoVola (EUR→BRL), Kiwi.com
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 14/11 → 19/11 | Gol / LATAM | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 833,75 (convertido de € 284,08 a R$ 5,87) | R$ 1.667,51 | GoVola (sem link — conferir no app) |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direta nos dois trechos | R$ 1.273,50 | R$ 2.547 | https://kiwi.com/u/j9uxb43 |
+| 🔴 | Buenos Aires | 22/11 → 27/11 | Aerolíneas Argentinas / Air Canada | GRU → AEP / EZE → GRU | direta nos dois trechos | R$ 1.750,50 | R$ 3.501 | https://kiwi.com/u/rttxhb |
+| 🟢 | Recife | 03/11 → 08/11 | Azul / Gol | VCP → REC / REC → CGH | direta nos dois trechos | R$ 980,00 | R$ 1.960 | https://kiwi.com/u/p8h79k |
+| 🔴 | Maceió | 10/11 → 15/11 | Gol | GRU → MCZ direta / MCZ → BSB → VCP (1 escala na volta) | — | R$ 1.197,00 | R$ 2.394 | https://kiwi.com/u/wqz3w3 |
+
+Resultado desta rodada: 1 verde(s) (Recife), 1 amarelo(s) (Porto Seguro).
+OBS: GitHub leitura ok (clone sem login); gravação indisponível, registrado aqui. Cotação EUR→BRL não consultada (Wise/Investing não buscados): usado 5,87 de referência. Porto Seguro: segunda mais barata em R$ nativo = Kiwi R$ 1.039,50 (CGH ↔ CGH, Gol, 14/11→19/11, https://kiwi.com/u/ty2dkf), 24,7% acima da convertida. lastminute BPS 14–19/11 = € 382,38 (≈ R$ 1.122/pessoa); GoVola/lastminute MCZ 15–20/11 mais caros que Kiwi. Gol, Vai de Promo, Expedia e demais sites não consultados nesta rodada (foco em Kiwi + GoVola/lastminute). Kiwi filtrado para volta − ida = 5 dias; o ChatGPT BPS R$ 461 não foi reproduzido por Kiwi/GoVola/lastminute (mesmas datas ≈ R$ 1.040/834).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 07:35
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 10/11 → 15/11 | Gol | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 826,26 (convertido de € 281,52 a R$ 5,87) | R$ 1.652,52 | GoVola (sem link — conferir no app) |
+| 🟡 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto nos dois trechos | R$ 1.020,73 (convertido de € 347,78 a R$ 5,87) | R$ 2.041,47 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.624,64 (convertido de € 553,54 a R$ 5,87) | R$ 3.249,28 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 16/11 → 21/11 | LATAM | GRU → REC / REC → CGH | direto nos dois trechos | R$ 805,42 (convertido de € 274,42 a R$ 5,87) | R$ 1.610,85 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 16/11 → 21/11 | Gol | VCP → BSB → MCZ (1 escala) / MCZ → GRU direto | — | R$ 994,79 (convertido de € 338,94 a R$ 5,87) | R$ 1.989,58 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 2 verde(s) (Recife, Maceió), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: GitHub leitura ok; gravação indisponível (execução agendada sem login) → registro no Docs. Cotação Wise não abriu (WebFetch PROVENANCE_REQUIRED) → usado R$ 5,87 (estimativa, sem IOF/taxas). Vai de Promo também bloqueado; Gol/Decolar/demais sites não consultados nesta rodada. Alternativas em R$ nativo (Kiwi, 5 dias): Porto Seguro R$ 1.035,50 (10/11→15/11 Gol, https://kiwi.com/u/ppxzb4); Fortaleza R$ 1.273,50 (06/11→11/11, https://kiwi.com/u/xqy7zhu); Buenos Aires R$ 1.714,50 (13/11→18/11 Aerolíneas GRU↔AEP, https://kiwi.com/u/yg2sk3 — até 10% acima da convertida); Recife R$ 993,00 VERDE nativo (16/11→21/11 Azul GRU→REC / Gol REC→CGH, https://kiwi.com/u/mr255r); Maceió R$ 1.204,00 (22/11→27/11, https://kiwi.com/u/pnt5c6). lastminute Porto Seguro 10/11→15/11: € 382,38 (≈ R$ 1.122/pessoa se total p/ 2), mais caro. Resultado: 2 verdes (Recife, Maceió) e 2 amarelos (Porto Seguro, Fortaleza).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 08:36
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 10/11 → 15/11 | Gol | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 817,81 (convertido de € 278,64 a R$ 5,87) | R$ 1.635,62 | GoVola (sem link — conferir no app) |
+| 🟡 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto nos dois trechos | R$ 1.009,99 (convertido de € 344,12 a R$ 5,87) | R$ 2.019,98 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.582,73 (convertido de € 539,26 a R$ 5,87) | R$ 3.165,46 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | direto nos dois trechos | R$ 779,42 (convertido de € 265,56 a R$ 5,87) | R$ 1.558,84 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 16/11 → 21/11 | Gol | VCP → BSB → MCZ (1 escala) / MCZ → GRU direto | — | R$ 983,39 (convertido de € 335,06 a R$ 5,87) | R$ 1.966,78 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 2 verde(s) (Recife, Maceió), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: GitHub leitura ok (clone sem login); gravação indisponível, registro feito aqui. Cotação EUR→BRL fixa em 5,87 (WebFetch do Wise sem permissão nesta rodada). Em R$ nativo (Kiwi, por pessoa) para conferência: Porto Seguro 1.035,50 (10/11→15/11, https://kiwi.com/u/vfrkr2); Fortaleza 1.282,00 (06/11→11/11, https://kiwi.com/u/hqbmnm); Buenos Aires 1.714,50 (13/11→18/11, https://kiwi.com/u/39fvx5t); Recife 1.071,50 (10/11→15/11, https://kiwi.com/u/4ttry7); Maceió 1.411,50 (16/11→21/11, https://kiwi.com/u/pkk99s). lastminute (EUR) ficou acima do GoVola em todos os destinos testados. Maceió verde por margem pequena e com escala na ida. GOL, Vai de Promo, Expedia e WebSearch não consultados (sem permissão de WebFetch/ferramenta indisponível).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 09:35
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 10/11 → 15/11 | Gol | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 817,95 (convertido de € 278,68 a R$ 5,87) | R$ 1.635,89 | GoVola (sem link — conferir no app) |
+| 🟡 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto nos dois trechos | R$ 1.020,85 (convertido de € 347,82 a R$ 5,87) | R$ 2.041,70 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.582,77 (convertido de € 539,26 a R$ 5,87) | R$ 3.165,54 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | direto nos dois trechos | R$ 779,54 (convertido de € 265,60 a R$ 5,87) | R$ 1.559,07 | GoVola (sem link — conferir no app) |
+| 🟢 | Maceió | 16/11 → 21/11 | Gol | VCP → BSB → MCZ (1 escala) / MCZ → GRU direto | — | R$ 989,63 (convertido de € 337,18 a R$ 5,87) | R$ 1.979,27 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 2 verde(s) (Recife, Maceió), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: GitHub leitura ok (clone sem login). Gravação no GitHub indisponível (execução agendada sem permissão de escrita; add_repo não usado) — registro feito aqui. Cotação EUR→BRL 5,87 (padrão; WebFetch da Wise/Investing sem permissão nesta execução). Preços em euros convertidos, sem IOF/taxas, estimados. Fontes em R$ nativo (Kiwi, 5 dias): BPS R$ 1.035,50 (CGH, 10/11→15/11, https://kiwi.com/u/mb4mwb) · FOR R$ 1.282,00 (GRU, 06/11→11/11, https://kiwi.com/u/cy65v4) · AEP R$ 1.714,50 (GRU, 13/11→18/11, https://kiwi.com/u/5b9kd5t; ~8% acima do convertido, para conferência) · REC R$ 1.071,50 (10/11→15/11, GRU→REC Azul / REC→CGH Gol, https://kiwi.com/u/8kfw6f) · MCZ R$ 1.164,00 (16/11→21/11, https://kiwi.com/u/7k4qby). lastminute (€→R$): MCZ € 476,72 (direto), BPS € 382,38, REC € 356,10, FOR € 472,60 — todos acima do GoVola. Gol/Vai de Promo/demais sites não consultados (WebFetch/WebSearch exigiram permissão não concedida nesta execução).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 10:36
+Fonte consultada: GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 14/11 → 19/11 | Gol (ida) + LATAM (volta) | CGH → BPS / BPS → CGH | direto nos dois trechos | R$ 833,95 (convertido de € 284,14 a R$ 5,87) | R$ 1.668 | GoVola (sem link — conferir no app) |
+| 🟡 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto nos dois trechos | R$ 1.021,09 (convertido de € 347,90 a R$ 5,87) | R$ 2.042 | GoVola (sem link — conferir no app) |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto nos dois trechos | R$ 1.625,17 (convertido de € 553,72 a R$ 5,87) | R$ 3.250 | GoVola (sem link — conferir no app) |
+| 🟢 | Recife | 03/11 → 08/11 | Gol | GRU → REC / REC → GRU | direto nos dois trechos | R$ 779,65 (convertido de € 265,64 a R$ 5,87) | R$ 1.559 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 16/11 → 21/11 | Gol | GRU → MCZ / MCZ → GRU | direto nos dois trechos | R$ 1.190,85 (convertido de € 405,74 a R$ 5,87) | R$ 2.382 | GoVola (sem link — conferir no app) |
+
+Resultado desta rodada: 1 verde(s) (Recife), 2 amarelo(s) (Porto Seguro, Fortaleza).
+OBS: GitHub leitura ok (clone sem login); gravação indisponível sem login, registro feito aqui. Cotação 5,87 fixa (WebFetch do Wise não autorizado nesta rodada). Preços nativos em R$ do Kiwi (total/2) para conferência: BPS R$ 1.039,50 ( (https://kiwi.com/u/6gqsbk) , 21/11–26/11 CGH, Gol); FOR R$ 1.291,50 ( (https://kiwi.com/u/xu7hp7g) , 06/11–11/11 GRU, Gol); Buenos Aires R$ 1.714,50 ( (https://kiwi.com/u/7tqwgz) , 13/11–18/11 AEP, Aerolíneas — só 5,5% acima do convertido); REC R$ 985,50 ( (https://kiwi.com/u/3tyn38) , 03/11–08/11 VCP→REC Azul / REC→CGH Gol, VERDE); MCZ R$ 1.380,00 ( (https://kiwi.com/u/zbm9qq) , 16/11–21/11 GRU, Gol). lastminute REC 03–08/11: € 416,80 total (≈ R$ 1.223/pessoa), mais caro. Sem GOL/Vai de Promo/outros sites nesta rodada (tempo). Oferta LATAM de R$ 461 do ChatGPT em BPS (14–19/11) não apareceu no Kiwi/GoVola hoje.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 11:36
+Fonte consultada: Kiwi, GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 10/11 → 15/11 | Gol | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 1.036,00 | R$ 2.072 | https://kiwi.com/u/f3k3b2 |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direta nos dois trechos | R$ 1.284,00 | R$ 2.568 | https://kiwi.com/u/znwnc72 |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/454cdr |
+| 🟢 | Recife | 16/11 → 21/11 | LATAM | GRU → REC / REC → GRU | direta nos dois trechos | R$ 865,59 (convertido de € 294,92 a R$ 5,87) | R$ 1.731 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 16/11 → 21/11 | Gol | VCP → BSB → MCZ (1 escala) / MCZ → GRU direta | — | R$ 1.164,00 | R$ 2.328 | https://kiwi.com/u/s8gd76 |
+
+Resultado desta rodada: 1 verde(s) (Recife), 0 amarelo(s) (—).
+OBS: GitHub leitura ok; gravação no GitHub indisponível (sem permissão de escrita), registro feito aqui. Cotação EUR→BRL 5,87 (fallback, WebFetch do Wise/Investing não consultado). WebFetch de voegol.com.br e vaidepromo.com.br não autorizado nesta rodada; WebSearch/outros buscadores e lastminute não trouxeram preço melhor. Kiwi Recife (R$ 988/pessoa, 16/11→21/11 GRU→REC / REC→CGH, https://kiwi.com/u/7nbkkp) como conferência do preço convertido. lastminute Porto Seguro 10/11→15/11: € 382,38 (≈ R$ 1.122/pessoa), acima do Kiwi. Link do ChatGPT em Porto Seguro (R$ 461) é de ontem e não pôde ser reproduzido no Kiwi (R$ 1.042/pessoa em 14/11→19/11).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 12:35
+Fonte consultada: Kiwi, GoVola (EUR→BRL)
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 10/11 → 15/11 | Gol | CGH → BPS / BPS → CGH | direto | R$ 1.036,50 | R$ 2.073 | https://kiwi.com/u/hmd6tq |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direto | R$ 1.281,50 | R$ 2.563 | https://kiwi.com/u/btk2b2 |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direto | R$ 1.714,50 | R$ 3.429 | https://kiwi.com/u/v72hf5 |
+| 🟢 | Recife | 10/11 → 15/11 | Gol | GRU → REC / REC → GRU | direto | R$ 780,26 (convertido de € 265,84 a R$ 5,87) | R$ 1.560,52 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 14/11 → 19/11 | Gol | GRU → MCZ / MCZ → GRU | direto | R$ 1.431,00 | R$ 2.862 | https://kiwi.com/u/972rqs |
+
+Resultado desta rodada: 1 verde(s) (Recife), 0 amarelo(s) (—).
+OBS: GitHub leitura ok (clone sem login); gravação no GitHub indisponível (execução agendada sem login). Cotação EUR→BRL: Wise não acessível (WebFetch sem permissão), usado 5,87. Recife via GoVola (€ 265,84 total p/ 2, GRU→REC Gol 10/11 22:05, volta 15/11) está bem abaixo do Kiwi (R$ 1.067/pessoa) e do lastminute (€ 415,90 ≈ R$ 1.220/pessoa) — conferir no app antes de confiar. Gol, Vai de Promo e demais sites não consultados nesta rodada (WebFetch/WebSearch sem permissão). Kiwi busca ampla: BPS 10/11→15/11 também R$ 1.036,50 via 21/11→26/11 (R$ 1.037,50). GoVola/lastminute MCZ 15/11→20/11: ≥ R$ 1.513/pessoa.
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 13:35
+Fonte consultada: GoVola (EUR→BRL), Kiwi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🟡 | Porto Seguro | 14/11 → 19/11 | LATAM | CGH → BPS / BPS → CGH | direta nos dois trechos | R$ 827,33 (convertido de € 281,88 a R$ 5,87) | R$ 1.654,66 | GoVola (sem link — conferir no app) |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU → FOR / FOR → GRU | direta nos dois trechos | R$ 1.281,50 | R$ 2.563,00 | https://kiwi.com/u/ksg3r5 |
+| 🔴 | Buenos Aires | 13/11 → 18/11 | Aerolíneas Argentinas | GRU → AEP / AEP → GRU | direta nos dois trechos | R$ 1.714,50 | R$ 3.429,00 | https://kiwi.com/u/2nv2chn |
+| 🟢 | Recife | 23/11 → 28/11 | LATAM | GRU → REC / REC → GRU | direta nos dois trechos | R$ 921,08 (convertido de € 313,82 a R$ 5,87) | R$ 1.842,15 | GoVola (sem link — conferir no app) |
+| 🔴 | Maceió | 16/11 → 21/11 | Gol | VCP → BSB → MCZ (1 escala) / MCZ → GRU direta | — | R$ 1.164,50 | R$ 2.329,00 | https://kiwi.com/u/3j7vmv |
+
+Resultado desta rodada: 1 verde(s) (Recife), 1 amarelo(s) (Porto Seguro).
+OBS: GitHub leitura ok (clone sem login); gravação indisponível (sem login/add_repo nesta execução agendada) → registro no Docs. Cotação EUR→BRL: WebFetch do Wise negado (permissão não respondida), usei 5,87 (referência 03/10). GoVola só nas datas-pista (BPS 14–19/11; REC 23–28/11, achada pelo Kiwi); lastminute BPS 14–19/11 deu € 400,24 (≈ R$ 1.175/pessoa), mais caro. Kiwi BPS melhor em R$ nativo: R$ 1.037,50 (CGH, 21/11–26/11, Gol, https://kiwi.com/u/3sk4cb); Kiwi REC melhor em R$ nativo: R$ 1.042,50 (GRU, 23/11–28/11, Azul, https://kiwi.com/u/gjftxm) — ambos >10% acima do convertido. Kiwi FOR só cobriu ida 01–13/11 (busca ampla 01–25 falhou com erro de proxy). Gol/VaideProm/demais sites não consultados nesta rodada (tempo).
+
+
+============================================================
+RODADA CLAUDE — 04/10/2026 14:36
+Fonte consultada: Kiwi
+
+| Cor | Destino | Datas | Companhia | Rota | Direto/escala | R$/pessoa | Total 2 | Link |
+|---|---|---|---|---|---|---:|---:|---|
+| 🔴 | Porto Seguro | 21/11 → 26/11 | Gol | CGH→BPS / BPS→CGH | direto | R$ 1.037,50 | R$ 2.075 | https://kiwi.com/u/uyc85bs |
+| 🔴 | Fortaleza | 06/11 → 11/11 | Gol | GRU→FOR / FOR→GRU | direto | R$ 1.284,00 | R$ 2.568 | https://kiwi.com/u/zf4dt2w |
+| 🔴 | Buenos Aires | 20/11 → 25/11 | Aerolíneas Argentinas / Air Canada | GRU→AEP / EZE→GRU | direto | R$ 1.751,00 | R$ 3.502 | https://kiwi.com/u/j83d78 |
+| 🟡 | Recife | 06/11 → 11/11 | Azul / Gol | GRU→REC / REC→GRU | direto | R$ 1.043,00 | R$ 2.086 | https://kiwi.com/u/jqr4jvn |
+| 🔴 | Maceió | 16/11 → 21/11 | Gol | VCP→MCZ (escala BSB) / MCZ→GRU direto | — | R$ 1.164,50 | R$ 2.329 | https://kiwi.com/u/5hmxrc |
+
+Resultado desta rodada: 0 verde(s) (—), 1 amarelo(s) (Recife).
+OBS: GitHub leitura ok. Gravação GitHub indisponível (sem permissão de escrita; registro feito aqui). WebFetch/WebSearch negados nesta execução (Gol, Vai de Promo, Wise e demais sites não consultados); cotação EUR→BRL 5,87 (referência), sem leitura nova. Kiwi na pista do ChatGPT BPS 14/11–19/11: R$ 1.039/pessoa (Gol CGH, kiwi.com/u/pc36rv) — não confirmou o R$ 461 dele. Maceió conferência: GoVola 16/11–21/11 GRU direto € 443,32 ≈ R$ 1.301/pessoa; lastminute € 479,24 ≈ R$ 1.406/pessoa (ambos acima do Kiwi). Recife alternativa Kiwi 10/11–15/11: R$ 1.067/pessoa (Gol).
