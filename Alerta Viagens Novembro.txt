@@ -74,3 +74,16 @@ Validação: 2 adultos, econômica, ida e volta, exatamente 5 dias (volta − id
 | 🟢 | Maceió (MCZ) | 15/11 → 20/11 | Gol | VCP → MCZ / MCZ → VCP | com escala | R$ 878,00 (a partir de) | R$ 1.756,00 | https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SAO&destination=MCZ&outboundDate=2026-11-15&cabinclass=economy&inboundDate=2026-11-20&locale=pt-BR&currency=BRL&market=BR |
 
 Resultado desta rodada: 2 ofertas 🟢 dentro do alvo (Porto Seguro e Maceió), 1 oferta 🟡 dentro da faixa de até +10% (Recife) e 1 oferta 🔴 acima da faixa amarela (Buenos Aires). Fortaleza ficou sem preço válido nesta rodada porque as ofertas atuais encontradas não puderam ser validadas simultaneamente com a duração exata de 5 dias. Nenhum preço em EUR de GoVola/lastminute foi usado.
+
+
+============================================================
+CONFIGURAÇÃO — AUTOMAÇÃO CHATGPT REATIVADA — 04/10/2026
+
+A busca horária consolidada do ChatGPT foi reativada para novembro/2026.
+- Frequência: 1 rodada por hora.
+- Passageiros: 2 adultos, econômica, ida e volta, exatamente 5 dias.
+- Origem/retorno: GRU, CGH, VCP ou SJK.
+- Destinos: BPS, FOR, EZE/AEP, REC e MCZ.
+- Alvos por pessoa: BPS R$800; FOR R$1.000; Buenos Aires R$1.200; REC R$1.000; MCZ R$1.000.
+- Cada rodada deverá acrescentar um novo bloco ao histórico, sem sobrescrever rodadas anteriores.
+- Preços em BRL, sem conversão de moeda, com links diretos/deep links quando disponíveis.
